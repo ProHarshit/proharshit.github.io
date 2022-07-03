@@ -536,6 +536,7 @@ section .title::after{
   color: crimson;
   background: none;
 }
+
 /* footer section styling */
 footer{
     background: #111;
@@ -628,6 +629,12 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
+}
+
+/* holiday special*/
+
+.checked{
+    color:red;
 }
 
 @media (max-width: 690px) {
